@@ -6,3 +6,13 @@ O repositório GP consiste em um conjunto de tecnologias, as quais formarão a b
 > Baixando e compilando
 
 <p align="center"><img src="/doc/baixar-e-compilar.gif?raw=true"/></p>
+
+> Estrutura de diretórios
+-----------------------
+
+      doc/                arquivos relacionados a documentação
+      config/             configurações do sistema
+      controllers/        classes dos Controllers
+      models/             classes dos Modelos
+      tests/              testes básicos
+      vendor/             pacotes de terceiros
